@@ -36,7 +36,7 @@
   width: 100%;
 }
 .status-section {
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
 }
@@ -63,4 +63,8 @@
 .settings button {
   height: 32px;
   font-size: 16px;
+}
+
+.next-btn{
+  display: none;
 }
